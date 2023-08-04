@@ -1,1 +1,1 @@
-# Tribue-page project for FreeCodeCamp
+#Tribute page project for FreeCodeCamp
